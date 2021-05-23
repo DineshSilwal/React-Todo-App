@@ -1,1 +1,6 @@
 export {Header} from "./Header"
+export {Todos} from "./Todos"
+export {TodoItem} from "./TodoItem"
+export {Footer} from "./Footer"
+export {About} from "./About"
+export {AddTodo} from "./AddTodo"
